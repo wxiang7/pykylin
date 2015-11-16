@@ -1,0 +1,2 @@
+# remove python bytecode files
+*.pyc
